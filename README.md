@@ -3,93 +3,49 @@
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+DevOps+Learner;Passionate+Coder+from+India" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+DevOps+Learner;Building+Creative+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vanshikazawar27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack & DevOps**
-- 🔭 I’m working on **AI-based Full Stack Projects**
-- 💡 Interested in **Web Development, Cloud & AI**
-- ⚡ Fun fact: I love building creative tech projects
+- 🌱 Currently learning **MERN Stack, DevOps & Cloud**
+- 🔭 Working on **AI-Based Full Stack Projects**
+- 💡 Interested in **Web Development, AI & Open Source**
+- ⚡ Fun fact: I enjoy turning ideas into real-world projects
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/vanshikazawar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+
+<a href="https://linkedin.com/in/vanshikazawar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/vanshika.zawar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<a href="https://instagram.com/vanshika.zawar" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.leetcode.com/vanshikazawar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+<a href="https://leetcode.com/vanshikazawar" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,react,nodejs,mongodb,mysql,git,github,androidstudio,vscode&perline=8" />
 
 </p>
 
@@ -99,25 +55,54 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshikazawar27&show_icons=true&theme=tokyonight" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshikazawar27&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikazawar27&theme=tokyonight" alt="streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikazawar27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikazawar27&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
----
-
-## ✨ Featured Projects
-
-- 🤖 AI Travel Planner
-- 🌱 Sustainable Home Decor Store
-- ☁️ DevOps & Docker Projects
-- 📱 Android & Web Applications
-
----
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikazawar27&theme=tokyonight&hide_border=true" />
+
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Travel Planner | AI-powered trip planning web app |
+| 🌱 Sustainable Home Decor Store | Eco-friendly ecommerce platform |
+| ☁️ DevOps Projects | Docker, Jenkins & CI/CD practice projects |
+| 📱 Android Apps | Mobile apps using Java & Android Studio |
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikazawar27&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikazawar27&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">⭐️ From <a href="https://github.com/vanshikazawar27">Vanshika Zawar</a></h3>
+```
