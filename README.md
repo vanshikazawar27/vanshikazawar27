@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Vanshika Zawar</h1>
 
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
@@ -122,4 +121,3 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-```
